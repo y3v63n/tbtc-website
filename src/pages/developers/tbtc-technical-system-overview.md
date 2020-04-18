@@ -9,7 +9,7 @@ path: developers/tbtc-technical-system-overview
 
 ##Депозитый токен TBTC (TDT)
 
-The TBTC Deposit Token (TDT) is a non-fungible token that is minted when a user requests a deposit. A TDT is a non-fungible ERC-721 token that serves as a counterpart to TBTC. It represents a claim to a deposit&#39;s underlying UTXO on the Bitcoin blockchain.
+Депозитный токен TBTC (TDT) ⁠— это незаменимый токен стандарта ERC-721, эмитируемый, когда пользователь делает депозит в BTC, и  дополняющий TBTC. Он подтверждает внесение депозита и является основой для неизрасходованных выходов транзакций в сети биткоина.
 
 TBTC deposits can be locked or unlocked. A locked deposit can only be redeemed by the deposit owner with the corresponding TDT. Each TDT is unique to the deposit that mints it and carries the exclusive right for up to a 6 month term to redeem the deposit.
 
