@@ -14,22 +14,22 @@ const Footer = () => (
         <ul>
           <li>
             <Link to="/about">
-              About
+              О нас
             </Link>
           </li>
           <li>
             <Link to="/news">
-              News
+              Новости
             </Link>
           </li>
           <li>
             <Link to="/developers">
-              Build
+              Разработчикам
             </Link>
           </li>
           <li>
             <Link to="/faq">
-              FAQ
+              Ответы на вопросы
             </Link>
           </li>
           <li>
