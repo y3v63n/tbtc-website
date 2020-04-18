@@ -1,7 +1,7 @@
 ---
-title: tBTC Technical System Overview
+title: Обзор технических характеристик tBTC
 date: 2020-04-01T15:04:10.000Z
-description: Learn about TDT receipts, multiple lot sizes, Keep's random beacon, and threshold signatures.
+description: Узнайте о расписках TDT, различных размерах лотов, «случайном маяке» Keep и пороговых подписях.
 template: resource
 path: developers/tbtc-technical-system-overview
 ---
