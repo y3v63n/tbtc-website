@@ -1,13 +1,13 @@
 ---
 title: Обзор технических характеристик tBTC
 date: 2020-04-01T15:04:10.000Z
-description: Узнайте о расписках TDT, различных размерах лотов, «случайном маяке» Keep и пороговых подписях.
+description: Узнайте о расписках TDT, множественных размерах лотов, «случайном маяке» Keep и пороговых подписях.
 template: resource
 path: developers/tbtc-technical-system-overview
 ---
-tBTC incorporates novel design features that carry important implications for users. This piece explains four of these: TDT receipts, multiple lot sizes, Keep&#39;s random beacon, and threshold signatures.
+В tBTC используются новые подходы, имеющие важное влияние на конечных пользователей. В настоящей статье можно узнать о четырех таких новшествах: расписках TDT, множественных размерах лотов, «случайном маяке» Keep и пороговых подписях.
 
-##TBTC Deposit Token (TDT)
+##Депозитый токен TBTC (TDT)
 
 The TBTC Deposit Token (TDT) is a non-fungible token that is minted when a user requests a deposit. A TDT is a non-fungible ERC-721 token that serves as a counterpart to TBTC. It represents a claim to a deposit&#39;s underlying UTXO on the Bitcoin blockchain.
 
