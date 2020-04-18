@@ -62,8 +62,8 @@ class Newsletter extends Component {
             <div className="col-sm-12 col-md-12 col-lg-10">
               <div className="row">
                 <div className="col-sm-12 col-md-4">
-                  <h2>Newsletter</h2>
-                  <p>Enter your email to receive updates</p>
+                  <h2>Рассылка</h2>
+                  <p>Введите адрес, чтобы получать новости</p>
                 </div>
                 <div className="col-sm-12 col-md-4 offset-md-1">
                   <div id="mailing-list" className="mailing-list">
@@ -84,7 +84,7 @@ class Newsletter extends Component {
                         ? <div className="success">
                             <Check width="30px" height="30px" />
                           </div>
-                        : <input type="submit" value={loading ? "(submitting...)" : "Submit"} />
+                        : <input type="submit" value={loading ? "(submitting...)" : "Подписаться"} />
                       }
                     </form>
                   </div>
